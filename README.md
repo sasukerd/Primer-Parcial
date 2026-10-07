@@ -23,7 +23,6 @@ internas de las áreas ADMIN, USER, DB y WEB.
 | ISP | Router Cisco IOSvL2 | Enrutamiento del proveedor de servicio |
 | FortiGate-6.4.6-1 | FortiGate 6.4.6 | Firewall / segmentación de áreas |
 | Switch1 | Ethernet switch | Conexión de las áreas internas |
-| BRANCH | Router Cisco IOSvL2 | Enrutamiento de la sucursal |
 | DB, ADMIN, USER | VPCS | Servidor de base de datos, administración y usuarios |
 | WEB | VPCS | Servidor web de la sucursal |
 
@@ -40,7 +39,6 @@ internas de las áreas ADMIN, USER, DB y WEB.
 │   ├── ISP/isp.cfg                            ← configuración del router ISP
 │   ├── FortiGate/fortigate.conf               ← configuración del firewall
 │   ├── Switch1/switch1.cfg                    ← configuración del switch
-│   └── BRANCH/branch.cfg                      ← configuración del router BRANCH
 
 ```
 
