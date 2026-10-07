@@ -48,10 +48,3 @@ internas de las áreas ADMIN, USER, DB y WEB.
 2. Rostro y voz del estudiante.
 3. Topología desplegada en GNS3.
 4. Configuración de dispositivos y verificación de conectividad.
-
-## Uso
-
-1. Abrir el proyecto en GNS3.
-2. Levantar todos los nodos.
-3. Aplicar las configuraciones de `configs/` y `hosts/`.
-4. Ejecutar `scripts/verificar_conectividad.bat` o los `ping` desde VPCS.
