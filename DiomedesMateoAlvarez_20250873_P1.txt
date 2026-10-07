@@ -1,2 +1,2 @@
-Repositorio de GitHub: https://github.com/<tu-usuario>/<tu-repositorio>
+Repositorio de GitHub: https://github.com/sasukerd/Primer-Parcial
 Video de demostración: https://youtu.be/CzorAFQLSbI
