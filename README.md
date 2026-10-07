@@ -10,7 +10,7 @@
 ## Descripción
 
 Laboratorio de red simulado en **GNS3** que integra un proveedor de servicio (ISP),
-un firewall **FortiGate 6.4.6**, un router de sucursal (**BRANCH**) y las redes
+un firewall **FortiGate 6.4.6** y las redes
 internas de las áreas ADMIN, USER, DB y WEB.
 
 ## Topología
