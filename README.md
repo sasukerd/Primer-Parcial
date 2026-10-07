@@ -41,10 +41,7 @@ internas de las áreas ADMIN, USER, DB y WEB.
 │   ├── FortiGate/fortigate.conf               ← configuración del firewall
 │   ├── Switch1/switch1.cfg                    ← configuración del switch
 │   └── BRANCH/branch.cfg                      ← configuración del router BRANCH
-├── hosts/
-│   └── vpcs_hosts.cfg                         ← configuración de DB, ADMIN, USER y WEB
-└── scripts/
-    └── verificar_conectividad.bat             ← prueba de conectividad
+
 ```
 
 ## Requisitos demostrados en el video
