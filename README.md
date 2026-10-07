@@ -1,4 +1,4 @@
-**🎥 VIDEO DEMOSTRACIÓN (ver primero):** https://youtu.be/CzorAFQLSbI
+**VIDEO DEMOSTRACIÓN:** https://youtu.be/CzorAFQLSbI
 
 ---
 
